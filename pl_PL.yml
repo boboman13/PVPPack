@@ -1,0 +1,19 @@
+# This file contains all the Polish messages for usage.
+
+UNTAGGED: Ponownie jesteÅ› &anieoznaczony&r. Teraz moÅ¼esz siÄ™ wylogowaÄ‡ lub teleportowaÄ‡.
+TAGGED: ZostaÅ‚eÅ› &coznaczony za walkÄ™&r. Teraz nie moÅ¼esz siÄ™ wylogowaÄ‡ ani teleportowaÄ‡.
+CANNOT_TELEPORT: Nie moÅ¼esz teleportowaÄ‡ siÄ™ z pola walki!
+LOGGED_OUT_OF_COMBAT: '&9[PLAYER]&r wylogowaÅ‚ siÄ™ podczas walki!'
+CANNOT_USE_COMMAND_IN_COMBAT: Nie moÅ¼na uÅ¼ywaÄ‡ tej komendy podczas walki!
+CANNOT_PVP_IN_CREATIVE: Nie moÅ¼na walczyÄ‡ przebywajÄ…c w trybie kreatywnym!
+NOT_SUFFICIENT_PERMISSIONS: Nie masz uprawnieÅ„ aby uÅ¼yÄ‡ tej komendy!
+TAGGED_PLAYER: Oznaczanie tego gracza zakoÅ„czyÅ‚o siÄ™ sukcesem.
+CANNOT_FIND_PLAYER: Gracz nie zostaÅ‚ znaleziony. SprÃ³bowaÄ‡ ponownie?
+TAGGING_COMMAND_USAGE: 'UÅ¼yto: &9/tag <player>'
+PLUGIN_RELOADED: PVPPack zostaÅ‚ przeÅ‚adowany.
+COMMAND_NOT_RECOGNIZED: Ta komenda nie zostaÅ‚a rozpoznana. SprÃ³bowaÄ‡ ponownie?
+CANNOT_PVP_WHILE_DISGUISED: Nie moÅ¼esz zaatakowaÄ‡ gracza, gdy masz kamuflarz!
+CANNOT_PVP_WHILE_VANISHED: Nie moÅ¼esz zaatakowaÄ‡ gracza, gdy zniknÄ…Å‚eÅ›!
+START_UPDATE_CHECK: Auto aktualizacja PVPPack wÅ‚Ä…czona; sprawdzanie aktualizacji...
+UPDATE_AVAILABLE: 'Aktualizacja PVPPack jest dostÄ™pna, '
+ENABLED: PVPPack zostaÅ‚ wÅ‚Ä…czony, uruchamianie v

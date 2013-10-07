@@ -1,0 +1,25 @@
+# This file contains all the English messages for usage.
+
+UNTAGGED: "You have been &auntagged&r. You may now log off/teleport."
+TAGGED: "You have been &ctagged for combat&r. You may not teleport or log off for now."
+
+CANNOT_TELEPORT: "You cannot teleport away from combat!"
+LOGGED_OUT_OF_COMBAT: "&9[PLAYER]&r has logged out of combat!"
+CANNOT_USE_COMMAND_IN_COMBAT: "You cannot use that command while in combat!"
+CANNOT_PVP_IN_CREATIVE: "You cannot PVP while in creative!"
+
+NOT_SUFFICIENT_PERMISSIONS: "You do not have permissions to use that command!"
+
+TAGGED_PLAYER: "Successfully tagged that player."
+CANNOT_FIND_PLAYER: "Player not found. Try again?"
+TAGGING_COMMAND_USAGE: "Usage: &9/tag <player>"
+PLUGIN_RELOADED: "PVPPack has been reloaded."
+COMMAND_NOT_RECOGNIZED: "That command wasn't recognized. Try again?"
+
+CANNOT_PVP_WHILE_DISGUISED: "You cannot PVP while disguised!"
+CANNOT_PVP_WHILE_VANISHED: "You cannot PVP while vanished!"
+
+START_UPDATE_CHECK: "PVPPack auto updater enabled; checking for update..."
+UPDATE_AVAILABLE: "PVPPack update available, "
+
+ENABLED: "PVPPack has been enabled, running v"

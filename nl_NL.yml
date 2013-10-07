@@ -1,0 +1,23 @@
+# Dutch translations by: P0WeRZz.
+
+UNTAGGED: "¤aJe bent weer veilig, Je mag weer teleporteren of uitloggen."
+TAGGED: "¤cJe zit nu in gevecht.. Je mag niet teleporteren of uitloggen!"
+
+CANNOT_TELEPORT: "Je kan niet teleporteren als je in gevecht bent."
+LOGGED_OUT_OF_COMBAT: "¤9[PLAYER]¤r¤6 is uitgelogd in gevecht!!"
+CANNOT_USE_COMMAND_IN_COMBAT: "Je bent in gevecht, je mag dat command niet gebruiken!"
+CANNOT_PVP_IN_CREATIVE: "Je kan niet pvp'en"
+
+NOT_SUFFICIENT_PERMISSIONS: "¤cJe hebt geen toegang tot dat commando!"
+
+TAGGED_PLAYER: "Je hebt de speler succesvol getagged."
+CANNOT_FIND_PLAYER: "Speler niet gevonden, probeer opnieuw?"
+TAGGING_COMMAND_USAGE: "Correcte commando: ¤9/tag <player>"
+
+CANNOT_PVP_WHILE_DISGUISED: "Je kunt niet pvp'en als je diguised bent!"
+CANNOT_PVP_WHILE_VANISHED: "Je kunt niet pvp'en als je vanished bent!"
+
+START_UPDATE_CHECK: "PVPPack controleert automatisch op updates..."
+UPDATE_AVAILABLE: "Er is een update beschikbaar voor PVPPack!"
+
+ENABLED: "PVPPack is opgestart."

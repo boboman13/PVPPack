@@ -1,0 +1,12 @@
+name: PVPPack
+main: mc.boboman13.pvppack.PVPPack
+version: 0.2.6
+author: boboman13
+softdepend: [DisguiseCraft, VanishNoPacket, iDisguise, BlockDisguise]
+description: A plugin designed to make the PVP experience a fair one, featuring PVP logging/teleport prevention and plugin hooks.
+dev-url: http://dev.bukkit.org/server-mods/pvppack
+
+commands:
+  pvppack:
+    description: Basic PVPPack general command.
+    usage: /pvppack

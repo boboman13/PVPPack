@@ -1,0 +1,23 @@
+options:
+  message-file: 'en_US.yml'
+  debug: false
+  use-metrics: true
+  affected-worlds:
+  - Factions
+  tag-time: 10
+  combatlog-drop-percentage: 0.65
+  drop-armor: true
+  death-on-combatlog: false
+  disabled-commands:
+  - /command1
+  - /command2
+  auto-update: true
+  broadcast-on-log: false
+  allow-tp-during-combat: false
+  disable-creative-pvp: true
+  disable-fly-pvp: true
+hooks:
+  disguisecraft: true
+  vanishnopacket: true
+  idisguise: true
+  blockdisguise: true

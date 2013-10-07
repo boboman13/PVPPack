@@ -1,0 +1,21 @@
+# This file contains all the English messages for usage.
+
+UNTAGGED: "Vous avez été §auntagged§r. Vous pouvez maintenant vous déconnecter/téléporter"
+Tagged: «Vous avez été §ctagged for combat§r. Vous ne pouvez pas vous téléporter ou vous déconnecter pour le moment.».
+
+CANNOT_TELEPORT: "Vous ne pouvez pas téléporter loin du combat!"
+LOGGED_OUT_OF_COMBAT: "§9[PLAYER]§r a déconnecté du combat"
+CANNOT_USE_COMMAND_IN_COMBAT: "Vous ne pouvez pas utiliser cette commande pendant le combat!"
+CANNOT_PVP_IN_CREATIVE: "Vous ne pouvez pas PVP tout en créativité!"
+
+NOT_SUFFICIENT_PERMISSIONS: "Vous n'avez pas les permissions nécessaires pour utiliser cette commande!"
+
+TAGGED_PLAYER: "Réussite du marquage du joueur"
+CANNOT_FIND_PLAYER: "Joueur non trouvé. Réessayer?"
+TAGGING_COMMAND_USAGE: "Utiliser: § 9/tag <player>"
+
+CANNOT_PVP_WHILE_DISGUISED: "Vous ne pouvez pas PVP en étant déguisé!"
+CANNOT_PVP_WHILE_VANISHED: "Vous ne pouvez pas PVP en étant invisible!"
+
+START_UPDATE_CHECK: "Mise à jour automatique de PVPPack activée; vérification de mise à jour ..."
+UPDATE_AVAILABLE: "Mise à jour PVPPack disponible"

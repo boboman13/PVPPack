@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>mc.boboman13.pvppack</groupId>
   <artifactId>pvppack</artifactId>
-  <version>0.5</version>
+  <version>0.2.6</version>
   <name>PVPPack</name>
   <url>http://dev.bukkit.org/server-mods/PVPPack</url>
 

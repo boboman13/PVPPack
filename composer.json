@@ -1,0 +1,6 @@
+{
+    "name": "PVPPacK",
+    "require": {
+        "java": ">=6"
+    }
+}

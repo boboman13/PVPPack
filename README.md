@@ -9,4 +9,4 @@
 [![Coverage Status](https://coveralls.io/repos/boboman13/PVPPack/badge.png)](https://coveralls.io/r/boboman13/PVPPack)
 
 ### Statistics
-![PVPPack stats](http://mcstats.org/signature/PVPPack.png)
+[![PVPPack stats](http://mcstats.org/signature/PVPPack.png)](https://mcstats.org/PVPPack)

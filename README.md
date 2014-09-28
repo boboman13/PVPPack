@@ -1,7 +1,12 @@
 ## PVPPack
-[![Build Status](https://travis-ci.org/boboman13/PVPPack.png?branch=master)](https://travis-ci.org/boboman13/PVPPack)
-[![Coverage Status](https://coveralls.io/repos/boboman13/PVPPack/badge.png)](https://coveralls.io/r/boboman13/PVPPack)
-#### *Bukkit plugin aimed at keeping combat fair.*
+> Bukkit plugin aimed at keeping combat fair.
+
+### Compilation
+```bash
+$ mvn clean package
+```
+
+`.jar` will be located in `target/` directory.
 
 ### Features
 1. Combats PvP logging and teleportation, compatible with LilyPad and Bungeecord installations.
